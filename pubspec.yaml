@@ -1,4 +1,4 @@
-name: day_tasker_app
+name: daytasker
 description: "A Flutter app for creating and remaining for any tasks."
 publish_to: 'none'
 

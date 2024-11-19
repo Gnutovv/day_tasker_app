@@ -20,7 +20,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.suneru.day-tasker-app"
+        applicationId = "com.suneru.daytasker"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
